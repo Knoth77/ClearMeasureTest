@@ -1,0 +1,16 @@
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\ClearMeasureTest.exe
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\ClearMeasureTest.deps.json
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\ClearMeasureTest.runtimeconfig.json
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\ClearMeasureTest.runtimeconfig.dev.json
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\ClearMeasureTest.dll
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\ClearMeasureTest.pdb
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.csprojAssemblyReference.cache
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.AssemblyInfoInputs.cache
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.AssemblyInfo.cs
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.csproj.CoreCompileInputs.cache
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.csproj.CopyComplete
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.dll
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.pdb
+C:\Users\Milk2\source\repos\ClearMeasureTest\ClearMeasureTest\obj\Debug\netcoreapp3.1\ClearMeasureTest.genruntimeconfig.cache

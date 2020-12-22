@@ -1,0 +1,9 @@
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.deps.json
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.dll
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\bin\Debug\netstandard2.0\FizzBuzz.pdb
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.dll
+C:\Users\Milk2\source\repos\ClearMeasureTest\FizzBuzz\obj\Debug\netstandard2.0\FizzBuzz.pdb
